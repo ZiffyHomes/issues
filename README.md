@@ -10,6 +10,6 @@ Because this is a an issue only repository of our private repository, we will no
 
 If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
 
-***Note: Contributors of this repository are allowed to create an issue, assign it to a member, label it and add it to a milestone to the issue
+***Note: Contributors of this repository are allowed to create an issue, assign it to a member, label it and add it to a milestone to the issue***
 
-***If you're not a contributor, you are only allowed to raise a new issue.
+***If you're not a contributor, you are only allowed to raise a new issue.***
